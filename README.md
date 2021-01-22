@@ -4,7 +4,7 @@ OpenSource FAERS Database Cleansing, Merging and Analysis
 
 
 ### Technologies used:
-1- Postgresql version ??
+1- Postgresql version 4.21
 
 2- Python version ?? packages ??
 
