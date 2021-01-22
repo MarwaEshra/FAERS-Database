@@ -4,9 +4,9 @@ OpenSource FAERS Database Cleansing, Merging and Analysis
 
 
 ### Technologies used:
-1- Postgresql version 4.21
+  1- Postgresql version 4.21
 
-2- Python version ?? packages ??
+  2- Python version ?? packages ??
 
 
 
@@ -63,7 +63,7 @@ Because of MedDRA not being open source so we can only share that we used MedDRA
 
 
 ### Acknowledgements
-Please consider citing this github and the following paper(s) if you use this in your work:
+Please cite this github and the following paper(s) if you use it in your work:
 
 
 
