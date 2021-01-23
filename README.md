@@ -33,11 +33,15 @@ OpenSource FAERS Database Cleansing, Merging and Analysis
 
   11- Importing Soc codes and names
 
-  12- Calculating 2 by 2 table information to get: A,B,C,D 
+  12- Removing Duplicates
+  
+  13- Calculating 2 by 2 table information to get: A,B,C,D 
 
-  13- Caulcation of ROR, PRR, IC, EBGM and CI95% for each of them.
+  14- Caulcation of ROR, PRR, IC, EBGM and CI95% for each of them
 
-  14- Visualization of Results.
+  15- Demographic Analysis
+  
+  16- Visualizations
 
 
 
