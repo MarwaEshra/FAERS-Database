@@ -22,9 +22,9 @@ def IsDetails(line):
     return False
 
 
-
-file1 = open("C:\\Downloads\\marwa\\SMQ_22_1.txt","r")
-filedetail = open("C:\\Downloads\\marwa\\childdetail_SMQ_22_1.txt","w")
+# SMQ_22_1.txt is just copy of the excel after expanding it to the lowest level by copy and paste in text file.
+file1 = open("SMQ_22_1.txt","r")
+filedetail = open("childdetail_SMQ_22_1.txt","w")
 
 parents = []
 while True:
